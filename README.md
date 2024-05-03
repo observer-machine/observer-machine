@@ -1,10 +1,10 @@
-# Package name
-Package Name
+# Observer Machine
+Observer.
 <pre>
-  pip install independent-machine
+  pip install <obse></obse>-machine
 </pre>
 Then:
 ```Python
   # Python
-  import independent_machine
+  import observer_machine
 ```
