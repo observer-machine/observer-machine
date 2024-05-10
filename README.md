@@ -1,7 +1,7 @@
 # Observer Machine
 Observer.
 <pre>
-  pip install <obse></obse>-machine
+  pip install observer-machine
 </pre>
 Then:
 ```Python
